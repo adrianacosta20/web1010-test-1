@@ -1,0 +1,32 @@
+/* Q1 */
+h1{
+    color: red;
+}
+
+/* Q2 */
+.colleges{
+    background-color: #c83;
+}
+
+/* Q3 */
+ul.topics{
+    list-style-type: none;
+}
+
+/* Q4 */
+figure img{
+    max-width: 300px;
+}
+
+/* Q5 */
+figure{
+    display: inline-block;
+}
+
+/* Q6 */
+figure{
+    margin: 20px;
+}
+
+/* Q7 */
+/* On the index.html file */
